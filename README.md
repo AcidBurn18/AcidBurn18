@@ -32,6 +32,8 @@
   </li>
 </ul>
 <!-- Projects -->
+<h2>Research Paper Published</h2>
+<p>Published in International Journal of Science & Engineering Development Research on <a href="https://www.ijsdr.org/papers/IJSDR2303026.pdf"><b>Analysing Mental Health Using Twitter by Sentimental Analysis</b></a></p>
 <!-- Medium Blog -->
 <a href="https://simplycuriosity.medium.com/"><img src="https://github.com/AcidBurn18/AcidBurn18/blob/main/7079378_medium_medium%20logo_icon.png" alt="Medium" width="180" height="150"/></a>
 <ul>
