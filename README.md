@@ -35,5 +35,5 @@
   <li><a href="https://in.linkedin.com/in/gotoansh"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></li>
 </ul>
 <!-- Footer -->
-<p align="center">Thanks for stopping by!</p> 
+
 
