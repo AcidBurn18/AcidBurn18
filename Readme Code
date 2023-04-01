@@ -1,0 +1,62 @@
+
+
+##SAVE IT AS Readme.md IN THE REPO YOUGITHUBUSERNAME
+
+
+<!-- Title -->
+<h1 align="left">Hi, I'm Developer(your name) 👋</h1>
+<!-- About Me -->
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Your Name" width="400", height="200">
+  </div>
+</div>
+
+<h2>My Skills</h2>
+<ul>
+<ul>
+  <li><a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/24/000000/terraform.png"/></a> Terraform</li>
+  <li><a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/></a> Google Cloud Platform (GCP)</li>
+  <li><a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/24/000000/azure-1.png"/></a> Microsoft Azure</li>
+  <li><a href="https://kubernetes.io/"><img src="https://img.icons8.com/color/24/000000/kubernetes.png"/></a> Kubernetes</li>
+  <li><a href="https://www.docker.com/"><img src="https://img.icons8.com/color/24/000000/docker.png"/></a> Docker</li>
+  <li><a href="https://www.jenkins.io/"><img src="https://img.icons8.com/color/24/000000/jenkins.png"/></a> Jenkins</li>
+  <li><a href="https://www.ansible.com/"><img src="https://img.icons8.com/color/24/000000/ansible.png"/></a> Ansible</li>
+  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png"/></a> Python</
+</ul>
+<!-- Certifications -->
+<h2>My Certifications</h2>
+    <ul>
+  <li style="display:flex;align-items:center">
+    <a href="If you have a link to accredible or any other">
+      <img src="batch image embed link"/>
+    </a>
+    <a href="If you have a link to accredible or any other">
+      <img src="batch image embed link" style="margin-left:10px"/>
+    </a>
+  </li>
+</ul>
+<!-- Projects -->
+<h2>Research Paper Published</h2>
+<p>Published in "where published" on <a href="paper link"><b>"Topic"</b></a></p>
+<!-- Medium Blog -->
+<a href="your profile link"><img src="https://github.com/AcidBurn18/AcidBurn18/blob/main/7079378_medium_medium%20logo_icon.png" alt="Medium" width="180" height="150"/></a>
+<ul>
+  <li>
+    <a href="article link">artcile name</a>
+  </li>
+  <li>
+    <a href="article link">artcile name</a>
+  </li>
+  <li>
+    <a href="article link">artcile name</a>
+  </li>
+</ul>
+<!-- Get In Touch -->
+<h2>Get In Touch</h2>
+ <div>
+  <a href="linkedin profile link" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="twitter profile link" style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="48" height="48"/></a>
+</div>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=your github user name" alt="visitor badge"/>
