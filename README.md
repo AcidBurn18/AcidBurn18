@@ -36,9 +36,23 @@
   <a href="https://twitter.com/YodaSpokenHas" style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="48" height="48"/></a>
 </div>
     
-<ul>
-  <li><a href="https://in.linkedin.com/in/gotoansh"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></li>
-</ul>
 <!-- Footer -->
+## My Most Used Languages
 
+{% assign total_size = 0 %}
+{% for lang in github.languages %}
+    {% assign total_size = total_size | plus: lang[1] %}
+{% endfor %}
+
+{% for lang in github.languages %}
+    {% assign percentage = lang[1] | times: 100.0 | divided_by: total_size %}
+    {% capture lang_str %}- {{ lang[0] }}: {{ percentage | round: 1 }}%{% endcapture %}
+    {% if forloop.first %}
+        {% assign most_used_lang = lang_str %}
+    {% else %}
+        {% assign most_used_lang = most_used_lang | append: '\n' | append: lang_str %}
+    {% endif %}
+{% endfor %}
+
+{{ most_used_lang }}
 
