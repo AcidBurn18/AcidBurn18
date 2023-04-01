@@ -19,7 +19,7 @@
 <!-- Certifications -->
 <h2>My Certifications</h2>
 <ul>
-  <li><a href="https://cloud.google.com/certification/cloud-architect"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660985"/></a>Google Cloud Professional Cloud Architect</li>
+  <li><a href="https://www.credential.net/dc4245f0-9c17-427d-b085-61b505ac7ddd"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660985"/></a></li>
 </ul>
 <!-- Projects -->
 <!-- Get In Touch -->
