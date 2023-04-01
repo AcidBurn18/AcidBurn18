@@ -28,9 +28,6 @@
     </a>
   </li>
 </ul>
-<ul>
-  <li><a href="https://www.credential.net/dc4245f0-9c17-427d-b085-61b505ac7ddd"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660985"/></a></li>
-</ul>
 <!-- Projects -->
 <!-- Get In Touch -->
 <h2>Get In Touch</h2>
