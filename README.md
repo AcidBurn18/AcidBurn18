@@ -15,7 +15,7 @@
 <ul>
 <ul>
   <li><a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/24/000000/terraform.png"/></a> Terraform</li>
-  <li><a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/></a> Google Cloud Platform (GCP)</li>
+  <li><a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png" width="500" height="500">/></a> Google Cloud Platform (GCP)</li>
   <li><a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/24/000000/azure-1.png"/></a> Microsoft Azure</li>
   <li><a href="https://kubernetes.io/"><img src="https://img.icons8.com/color/24/000000/kubernetes.png"/></a> Kubernetes</li>
   <li><a href="https://www.docker.com/"><img src="https://img.icons8.com/color/24/000000/docker.png"/></a> Docker</li>
