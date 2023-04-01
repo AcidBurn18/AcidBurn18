@@ -18,6 +18,16 @@
 </ul>
 <!-- Certifications -->
 <h2>My Certifications</h2>
+    <ul>
+  <li style="display:flex;align-items:center">
+    <a href="https://www.credential.net/dc4245f0-9c17-427d-b085-61b505ac7ddd">
+      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660985"/>
+    </a>
+    <a href="https://www.credential.net/309f4179-f9ab-4a34-bcad-7b3ab9854091">
+      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67164146" style="margin-left:10px"/>
+    </a>
+  </li>
+</ul>
 <ul>
   <li><a href="https://www.credential.net/dc4245f0-9c17-427d-b085-61b505ac7ddd"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660985"/></a></li>
 </ul>
