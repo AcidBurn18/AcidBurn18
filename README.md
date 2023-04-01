@@ -31,6 +31,11 @@
 <!-- Projects -->
 <!-- Get In Touch -->
 <h2>Get In Touch</h2>
+ <div>
+  <a href="https://in.linkedin.com/in/gotoansh" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/YodaSpokenHas" style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="48" height="48"/></a>
+</div>
+    
 <ul>
   <li><a href="https://in.linkedin.com/in/gotoansh"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></li>
 </ul>
