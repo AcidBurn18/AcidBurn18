@@ -32,7 +32,8 @@
 <!-- Get In Touch -->
 <h2>Get In Touch</h2>
 <ul>
-  <li>LinkedIn: <a href="link">Your LinkedIn Profile URL</a></li>
+  <li>LinkedIn: <a href="https://in.linkedin.com/in/gotoansh"><img src="https://img.icons8.com/color/24/000000/linkedin.png
+    "/></a>Ansh Agrawal</li>
 </ul>
 <!-- Footer -->
 <p align="center">Thanks for stopping by!</p> 
