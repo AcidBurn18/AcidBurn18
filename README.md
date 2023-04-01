@@ -15,7 +15,7 @@
 <ul>
 <ul>
   <li><a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/24/000000/terraform.png"/></a> Terraform</li>
-  <li><a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png" width="500" height="500">/></a> Google Cloud Platform (GCP)</li>
+  <li><a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/></a> Google Cloud Platform (GCP)</li>
   <li><a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/24/000000/azure-1.png"/></a> Microsoft Azure</li>
   <li><a href="https://kubernetes.io/"><img src="https://img.icons8.com/color/24/000000/kubernetes.png"/></a> Kubernetes</li>
   <li><a href="https://www.docker.com/"><img src="https://img.icons8.com/color/24/000000/docker.png"/></a> Docker</li>
@@ -37,7 +37,7 @@
 </ul>
 <!-- Projects -->
 <!-- Medium Blog -->
-<h2><a href="https://simplycuriosity.medium.com/"><img src="https://github.com/AcidBurn18/AcidBurn18/blob/main/7079378_medium_medium%20logo_icon.png" alt="Medium" width="48" height="48"/></a></h2>
+<h2><a href="https://simplycuriosity.medium.com/"><img src="https://github.com/AcidBurn18/AcidBurn18/blob/main/7079378_medium_medium%20logo_icon.png" alt="Medium"></a></h2>
 <ul>
   <li>
     <a href="https://simplycuriosity.medium.com/unleashing-the-power-of-kubernetes-crd-a-real-world-journey-5d0573a58c96">Unleashing the Power of Kubernetes CRD: A Real-World Journey</a>
