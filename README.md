@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi, I'm Ansh Agrawal 👋</h1>
+<h1 align="left">Hi, I'm Ansh Agrawal 👋</h1>
 <!-- About Me -->
 <div style="display: flex;">
   <div style="flex: 1;">
