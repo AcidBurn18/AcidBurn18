@@ -37,7 +37,7 @@
 </ul>
 <!-- Projects -->
 <!-- Medium Blog -->
-<h2>My Blog<a href="https://simplycuriosity.medium.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="48" height="48"/></a></h2>
+<h2>My Blog<a href="https://simplycuriosity.medium.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Medium_logo_Monogram.svg" alt="Medium" width="48" height="48"/></a></h2>
 <ul>
   <li>
     <a href="https://simplycuriosity.medium.com/unleashing-the-power-of-kubernetes-crd-a-real-world-journey-5d0573a58c96">Unleashing the Power of Kubernetes CRD: A Real-World Journey</a>
