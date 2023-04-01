@@ -19,7 +19,8 @@
 <!-- Certifications -->
 <h2>My Certifications</h2>
 <ul>
-  <li>Google Cloud Professional Cloud Architect</li>
+  <li><a href="https://cloud.google.com/certification/cloud-architect"><img src="https://img.icons8.com/color/24/000000/google-cloud-certified.png
+    "/></a>Google Cloud Professional Cloud Architect</li>
 </ul>
 <!-- Projects -->
 <!-- Get In Touch -->
