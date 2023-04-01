@@ -6,15 +6,15 @@
 <!-- Skills -->
 <h2>My Skills</h2>
 <ul>
-  <li><img src="https://img.icons8.com/color/24/000000/terraform.png"/> Terraform</li>
-  <li><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/> Google Cloud Platform (GCP)</li>
-  <li><img src="https://img.icons8.com/color/24/000000/microsoft-azure.png"/> Microsoft Azure</li>
-  <li><img src="https://img.icons8.com/color/24/000000/kubernetes.png"/> Kubernetes</li>
-  <li><img src="https://img.icons8.com/color/24/000000/docker.png"/> Docker</li>
-  <li><img src="https://img.icons8.com/color/24/000000/jenkins.png"/> Jenkins</li>
-  <li><img src="https://img.icons8.com/color/24/000000/ansible.png"/> Ansible</li>
-  <li><img src="https://img.icons8.com/color/24/000000/python.png"/> Python</li>
-  <li><img src="https://img.icons8.com/color/24/000000/console.png"/> Bash</li>
+<ul>
+  <li><a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/24/000000/terraform.png"/></a> Terraform</li>
+  <li><a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/></a> Google Cloud Platform (GCP)</li>
+  <li><a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/24/000000/microsoft-azure.png"/></a> Microsoft Azure</li>
+  <li><a href="https://kubernetes.io/"><img src="https://img.icons8.com/color/24/000000/kubernetes.png"/></a> Kubernetes</li>
+  <li><a href="https://www.docker.com/"><img src="https://img.icons8.com/color/24/000000/docker.png"/></a> Docker</li>
+  <li><a href="https://www.jenkins.io/"><img src="https://img.icons8.com/color/24/000000/jenkins.png"/></a> Jenkins</li>
+  <li><a href="https://www.ansible.com/"><img src="https://img.icons8.com/color/24/000000/ansible.png"/></a> Ansible</li>
+  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png"/></a> Python</
 </ul>
 <!-- Certifications -->
 <h2>My Certifications</h2>
