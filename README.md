@@ -1,3 +1,6 @@
+{% for lang in github.languages %}
+- {{ lang.name }} - {{ lang.percentage }}%
+{% endfor %}
 <!-- Title -->
 <h1 align="center">Hi, I'm Ansh Agrawal 👋</h1>
 <!-- About Me -->
@@ -37,22 +40,4 @@
 </div>
     
 <!-- Footer -->
-## My Most Used Languages
-
-{% assign total_size = 0 %}
-{% for lang in github.languages %}
-    {% assign total_size = total_size | plus: lang[1] %}
-{% endfor %}
-
-{% for lang in github.languages %}
-    {% assign percentage = lang[1] | times: 100.0 | divided_by: total_size %}
-    {% capture lang_str %}- {{ lang[0] }}: {{ percentage | round: 1 }}%{% endcapture %}
-    {% if forloop.first %}
-        {% assign most_used_lang = lang_str %}
-    {% else %}
-        {% assign most_used_lang = most_used_lang | append: '\n' | append: lang_str %}
-    {% endif %}
-{% endfor %}
-
-{{ most_used_lang }}
 
