@@ -57,4 +57,3 @@
 </div>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=AcidBurn18" alt="visitor badge"/>
-<!-- Footer -->
