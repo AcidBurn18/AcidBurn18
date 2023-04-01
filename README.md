@@ -1,6 +1,15 @@
+## Most Used Languages
+
+{% assign total = 0 %}
 {% for lang in github.languages %}
-- {{ lang.name }} - {{ lang.percentage }}%
+  {% assign total = total | plus: lang[1] %}
 {% endfor %}
+
+{% for lang in github.languages %}
+  {% assign percentage = lang[1] | times: 100 | divided_by: total %}
+  - {{ lang[0] }}: {{ percentage }}%
+{% endfor %}
+
 <!-- Title -->
 <h1 align="center">Hi, I'm Ansh Agrawal 👋</h1>
 <!-- About Me -->
