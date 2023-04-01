@@ -2,20 +2,19 @@
 <h1 align="center">Hi, I'm Ansh Agrawal 👋</h1>
 <!-- About Me -->
 <h2>About Me</h2>
-<p>I'm a DevOps Engineer with a passion for cloud computing and automation. Currently, I'm working at Hashedin by Deloitte, where I'm responsible for designing and implementing cloud infrastructure for enterprise clients. My experience includes working with Terraform, GCP, Azure, Anthos, Docker, Kubernetes, Jenkins, Ansible, Python, Bash, and other DevOps tools.</p>
+<p>I'm a DevOps Engineer with a passion for cloud computing and automation. Currently, I'm working at Hashedin by Deloitte, where I'm responsible for designing and implementing cloud infrastructure for enterprise clients. My experience includes working with various DevOps tools.</p>
 <!-- Skills -->
 <h2>My Skills</h2>
 <ul>
-  <li>Terraform</li>
-  <li>Google Cloud Platform (GCP)</li>
-  <li>Microsoft Azure</li>
-  <li>Anthos</li>
-  <li>Docker</li>
-  <li>Kubernetes</li>
-  <li>Jenkins</li>
-  <li>Ansible</li>
-  <li>Python</li>
-  <li>Bash</li>
+  <li><img src="https://img.icons8.com/color/24/000000/terraform.png"/> Terraform</li>
+  <li><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/> Google Cloud Platform (GCP)</li>
+  <li><img src="https://img.icons8.com/color/24/000000/microsoft-azure.png"/> Microsoft Azure</li>
+  <li><img src="https://img.icons8.com/color/24/000000/kubernetes.png"/> Kubernetes</li>
+  <li><img src="https://img.icons8.com/color/24/000000/docker.png"/> Docker</li>
+  <li><img src="https://img.icons8.com/color/24/000000/jenkins.png"/> Jenkins</li>
+  <li><img src="https://img.icons8.com/color/24/000000/ansible.png"/> Ansible</li>
+  <li><img src="https://img.icons8.com/color/24/000000/python.png"/> Python</li>
+  <li><img src="https://img.icons8.com/color/24/000000/console.png"/> Bash</li>
 </ul>
 <!-- Certifications -->
 <h2>My Certifications</h2>
