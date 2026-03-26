@@ -1,57 +1,53 @@
-<!-- Title -->
-<h1 align="left">Hi, I'm Ansh Agrawal 👋</h1>
-<!-- About Me -->
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Ansh Agrawal" width="400", height="200">
-  </div>
-</div>
+# Ansh Agrawal
 
-<h2>My Skills</h2>
-<ul>
-<ul>
-  <li><a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/24/000000/terraform.png"/></a> Terraform</li>
-  <li><a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/></a> Google Cloud Platform (GCP)</li>
-  <li><a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/24/000000/azure-1.png"/></a> Microsoft Azure</li>
-  <li><a href="https://kubernetes.io/"><img src="https://img.icons8.com/color/24/000000/kubernetes.png"/></a> Kubernetes</li>
-  <li><a href="https://www.docker.com/"><img src="https://img.icons8.com/color/24/000000/docker.png"/></a> Docker</li>
-  <li><a href="https://www.jenkins.io/"><img src="https://img.icons8.com/color/24/000000/jenkins.png"/></a> Jenkins</li>
-  <li><a href="https://www.ansible.com/"><img src="https://img.icons8.com/color/24/000000/ansible.png"/></a> Ansible</li>
-  <li><a href="https://www.python.org/"><img src="https://img.icons8.com/color/24/000000/python.png"/></a> Python</
-</ul>
-<!-- Certifications -->
-<h2>My Certifications</h2>
-    <ul>
-  <li style="display:flex;align-items:center">
-    <a href="https://www.credential.net/dc4245f0-9c17-427d-b085-61b505ac7ddd">
-      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660985"/>
-    </a>
-    <a href="https://www.credential.net/309f4179-f9ab-4a34-bcad-7b3ab9854091">
-      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67164146" style="margin-left:10px"/>
-    </a>
-  </li>
-</ul>
-<!-- Projects -->
-<h2>Research Paper Published</h2>
-<p>Published in International Journal of Science & Engineering Development Research on <a href="https://www.ijsdr.org/papers/IJSDR2303026.pdf"><b>Analysing Mental Health Using Twitter by Sentimental Analysis</b></a></p>
-<!-- Medium Blog -->
-<a href="https://simplycuriosity.medium.com/"><img src="https://github.com/AcidBurn18/AcidBurn18/blob/main/7079378_medium_medium%20logo_icon.png" alt="Medium" width="180" height="150"/></a>
-<ul>
-  <li>
-    <a href="https://simplycuriosity.medium.com/unleashing-the-power-of-kubernetes-crd-a-real-world-journey-5d0573a58c96">Unleashing the Power of Kubernetes CRD: A Real-World Journey</a>
-  </li>
-  <li>
-    <a href="https://simplycuriosity.medium.com/istio-open-source-manager-e1fb54bc812">Istio: Open Source Manager</a>
-  </li>
-  <li>
-    <a href="https://simplycuriosity.medium.com/docker-the-container-496cbd1298e6">Docker: The Container</a>
-  </li>
-</ul>
-<!-- Get In Touch -->
-<h2>Get In Touch</h2>
- <div>
-  <a href="https://in.linkedin.com/in/gotoansh" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/YodaSpokenHas" style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="48" height="48"/></a>
-</div>
+DevOps Engineer focused on cloud infrastructure, platform engineering, Kubernetes, and automation. I build portfolio-grade projects that show how I design systems, structure infrastructure code, and communicate technical work clearly.
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=AcidBurn18" alt="visitor badge"/>
+## What I Work On
+
+- Cloud and platform engineering
+- Terraform and infrastructure as code
+- Kubernetes and container platforms
+- CI/CD and deployment automation
+- DevOps documentation and public-safe architecture storytelling
+
+## Featured Work
+
+### Azure Landing Zone Starter
+
+Public-safe case study inspired by hands-on Azure platform engineering experience. The repository includes architecture documentation, reusable Terraform modules, and a sample platform composition for demonstrating cloud foundation design.
+
+[View repository](https://github.com/AcidBurn18/devops-case-study)
+
+### Home Server DevOps Lab
+
+A long-running self-hosted infrastructure project used to practice real operational ownership across Docker Compose services, platform components, DNS, and maintainable repository structure.
+
+[View repository](https://github.com/AcidBurn18/homeserver_public)
+
+## Certifications And Learning
+
+I have completed cloud, DevOps, and language credentials that reflect both technical depth and professional communication skills. Some vendor certifications may no longer be active, but they remain part of my learning history and practical experience.
+
+[![Microsoft AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credential.net/dc4245f0-9c17-427d-b085-61b505ac7ddd)
+[![Google Professional DevOps Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credential.net/309f4179-f9ab-4a34-bcad-7b3ab9854091)
+[![Google Associate Cloud Engineer](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](#certifications-and-learning)
+[![IELTS C1](https://img.shields.io/badge/IELTS-C1%20Band-1F6FEB?style=for-the-badge)](#certifications-and-learning)
+[![Goethe A1](https://img.shields.io/badge/Goethe-German%20A1-2E7D32?style=for-the-badge)](#certifications-and-learning)
+
+## Writing And Publication
+
+- Published research paper: [Analysing Mental Health Using Twitter by Sentimental Analysis](https://www.ijsdr.org/papers/IJSDR2303026.pdf)
+- Medium: [teckdebate.medium.com](https://teckdebate.medium.com/)
+- Article: [Unleashing the Power of Kubernetes CRD: A Real-World Journey](https://teckdebate.medium.com/unleashing-the-power-of-kubernetes-crd-a-real-world-journey-5d0573a58c96)
+- Article: [Istio: Open Source Manager](https://teckdebate.medium.com/istio-open-source-manager-e1fb54bc812)
+- Article: [Docker: The Container](https://teckdebate.medium.com/docker-the-container-496cbd1298e6)
+
+## Core Stack
+
+`Terraform` `Azure` `GCP` `Kubernetes` `Docker` `Jenkins` `Ansible` `Python`
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/gotoansh](https://in.linkedin.com/in/gotoansh)
+- GitHub: [github.com/AcidBurn18](https://github.com/AcidBurn18)
+- Medium: [teckdebate.medium.com](https://teckdebate.medium.com/)
