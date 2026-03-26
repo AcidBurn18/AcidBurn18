@@ -38,9 +38,9 @@ I have completed cloud, DevOps, and language credentials that reflect both techn
 
 - Published research paper: [Analysing Mental Health Using Twitter by Sentimental Analysis](https://www.ijsdr.org/papers/IJSDR2303026.pdf)
 - Medium: [teckdebate.medium.com](https://teckdebate.medium.com/)
-- Article: [Unleashing the Power of Kubernetes CRD: A Real-World Journey](https://teckdebate.medium.com/unleashing-the-power-of-kubernetes-crd-a-real-world-journey-5d0573a58c96)
-- Article: [Istio: Open Source Manager](https://teckdebate.medium.com/istio-open-source-manager-e1fb54bc812)
-- Article: [Docker: The Container](https://teckdebate.medium.com/docker-the-container-496cbd1298e6)
+- Article: [Build a Self-Updating Media Library: qBittorrent to Jellyfin Automation](https://teckdebate.medium.com/build-a-self-updating-media-library-qbittorrent-to-jellyfin-automation-3978b0d25938)
+- Article: [Terraform Docs Tutorial: Generate READMEs for Your Modules](https://teckdebate.medium.com/terraform-docs-tutorial-generate-readmes-for-your-modules-412597aa351a)
+- Article: [Cross-Subscription VNet Peering in Azure with Terraform: A Step-by-Step Guide](https://teckdebate.medium.com/cross-peering-power-terraform-azurermrm-unleashed-62a9839f45fd)
 
 ## Core Stack
 
